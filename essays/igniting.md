@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Personal Enhancement"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-01-17
 published: true
 labels:
-  - Software Engineering
+  - Management Information Systems
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+I have had the privilege of building a successful career in the areas of Accounting, Human Resources, Recruitment, Systems Implementation, Operations, Business Strategy and Process Improvement with out having obtained
+a degree. From a young age, I have managed international corporate teams, as well as built and grew two companies through my inherent ability to build relationships, understand business, and learn quickly.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Technology has always resonated with me since the start of the Digital Revolution. I have observed the business environment evolve and I witnessed more and more organizations adapt to the changes, as we entered into 
+the Cyber Revolution. I recognize that it is important to be adept, and acquire technological skills to remain successful and relevant. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I belive people should always strive to continuously learn new things. Learning new things to complement your existing knowledge is what growth and success means to me. I have decided to enhance my skillset to encompass all aspects of business and complete my degree in Management Information Systems. I hope to acquire new skills and knowledge through the MIS program and completing the BAM program at UH. 
