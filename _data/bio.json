@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Bettea Giacomelli",
     "label": "Student",
     "picture": "https://github.com/betteagiacomelli.png",
     "email": "bettea@hawaii.edu",
@@ -18,8 +18,8 @@
   "interests": [
     { "name": "Business Process Improvement" },
     { "name": "Mangement Information Systems" },
-    { "name": "Security" },
-    { "name": "Networking" },
+    { "name": "Project Management" },
+    { "name": "Security and Networking" },
     { "name": "Programing" }
   ],
   "skills": [
