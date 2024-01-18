@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bettea Giacomelli",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://github.com/betteagiacomelli.png",
     "email": "bettea@hawaii.edu",
     "phone": "808-754-7632",
     "website": "https://betteagiacomelli.github.io",
-    "summary": "I am a Management Information Systems sudent at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "Management Information Systems sudent at the University of Hawaii. Expected graduation Spring 2025.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "betteagiacomelli", "url": "http://github.com/betteagiacomelli" },
