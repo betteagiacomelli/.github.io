@@ -8,8 +8,8 @@ published: true
 labels:
   - Techfolio
   - Profile
-  - Intro
-summary: "Creating a profile. No project yet."
+  - Jobs
+summary: "Tech jobs for everyone."
 ---
 
 <div class="text-center p-4">
@@ -18,7 +18,7 @@ summary: "Creating a profile. No project yet."
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Portoflio Project Test
+Instantly showcase up and coming University of Hawaii Tech professionals to existing contacts in client database.
 
 Here is some code that illustrates how we read values from the line sensors:
 
