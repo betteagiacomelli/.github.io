@@ -17,10 +17,10 @@
   },
   "interests": [
     { "name": "Business Process Improvement" },
-    { "name": "Mangement Information Systems" },
+    { "name": "Management Information Systems" },
     { "name": "Project Management" },
     { "name": "Security and Networking" },
-    { "name": "Programing" }
+    { "name": "Programming" }
   ],
   "skills": [
     {
@@ -39,8 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -50,10 +49,10 @@
       "website": "www.strategentsearch.com",
       "startDate": "2018-02-01",
       "endDate": "Present",
-      "summary": "Operational an technical business solutions consulting",
+      "summary": "Operational and technical business solutions consulting",
       "highlights": [
         "ATS and CRM systems implementation and training",
-        "Assess, identfy and improve corporate business processes, strategy and project management"
+        "Assess, identify, and improve corporate business processes, strategy, and project management"
       ]
     },
     {
@@ -64,10 +63,10 @@
       "endDate": "2017-07-01",
       "summary": "",
       "highlights": [
-        "Recruit train and develop a team in the areas of project management, business development and recruitment",
+        "Recruit, train, and develop a team in the areas of project management, business development, and recruitment",
         "Implement systems and business processes for corporate organizations"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -76,11 +75,11 @@
       "position": "Board Member",
       "startDate": "2019-01-01",
       "endDate": "Present",
-      "summary": "Non-profit organization working to build an equitable high-quality education to prepare students for success and leadership through legislature. ",
+      "summary": "Non-profit organization working to build an equitable high-quality education to prepare students for success and leadership through legislature.",
       "highlights": [
-        "Expand the number of teachers trained to teach computer science and the number of students completing courses",
+        "Expand the number of teachers trained to teach computer science and the number of students completing courses"
       ]
-    },
+    }
   ],
   "references": [
     {
